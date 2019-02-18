@@ -1,0 +1,425 @@
+Activate Editor,F12,Window,In Windows
+Activate Task,Ctrl+F9,Navigate,In Windows
+Add Block Comment,Shift+Ctrl+/,Edit,Editing in Structured Text Editors
+Add Block Comment,Shift+Ctrl+/,Source,Editing JavaScript Source
+Add Import,Shift+Ctrl+M,Source,Editing JavaScript Source
+Add Javadoc Comment,Shift+Alt+J,Script Source,Editing Script Source
+Add JSDoc Comment,Shift+Alt+J,Source,JavaScript View
+Add Memory Block,Ctrl+Alt+M,Run/Debug,In Memory View
+Backward History,Alt+Left,Navigate,In Windows
+Build All,Ctrl+B,Project,In Windows
+Change Function Signature,Shift+Alt+C,Refactor - JavaScript,JavaScript View
+Clear Mark,Ctrl+G,Text Editing,Editing Text
+Close,Ctrl+F4,File,In Windows
+Close,Ctrl+X K,File,In Windows
+Close,Ctrl+W,File,In Windows
+Close All,Shift+Ctrl+F4,File,In Windows
+Close All,Ctrl+X Ctrl+C,File,In Windows
+Close All,Shift+Ctrl+W,File,In Windows
+Close Rendering,Ctrl+W,Run/Debug,In Memory View
+Collapse,Ctrl+Numpad_Subtract,Text Editing,Editing Text
+Collapse All,Shift+Ctrl+Numpad_Divide,Navigate,In Windows
+Collapse All,Shift+Ctrl+Numpad_Divide,Text Editing,Editing Text
+Commit...,Ctrl+#,Git,In Windows
+Content Assist,Ctrl+Space,Edit,In Dialogs and Windows
+Content Assist,Alt+/,Edit,In Dialogs and Windows
+Context Information,Shift+Ctrl+Space,Edit,In Dialogs and Windows
+Context Information,Shift+Alt+?,Edit,In Windows
+Context Information,Alt+?,Edit,In Windows
+Copy,Alt+W,Edit,In Dialogs and Windows
+Copy,Ctrl+Insert,Edit,In Dialogs and Windows
+Copy,Ctrl+C,Edit,In Dialogs and Windows
+Copy,Esc W,Edit,In Dialogs and Windows
+Copy,Shift+Ctrl+C,Terminal view commands,Terminal Control in Focus
+Copy,Ctrl+Insert,Terminal view commands,Terminal Control in Focus
+Copy Commit Id,Ctrl+C,Uncategorized,In Git Reflog View
+Copy Lines,Ctrl+Alt+Down,Text Editing,Editing Text
+Copy Path to Clipboard,Ctrl+C,Git,In Git Repositories View
+Correct &Indentation,Ctrl+I,Script Source,Editing Script Source
+Create Object Operator,Ctrl+.,Edit,Editing PHP source
+Cut,Ctrl+X,Edit,In Dialogs and Windows
+Cut,Shift+Delete,Edit,In Dialogs and Windows
+Cut,Ctrl+W,Edit,In Dialogs and Windows
+Cut to Beginning of Line,Alt+0 Ctrl+K,Text Editing,Editing Text
+Cut to Beginning of Line,Esc 0 Ctrl+K,Text Editing,Editing Text
+Cut to End of Line,Ctrl+K,Text Editing,Editing Text
+Deactivate Task,Shift+Ctrl+F9,Navigate,In Windows
+Debug,F11,Run/Debug,In Windows
+Debug,Ctrl+Alt+D,Server,In Servers View
+Debug CLI Application,Shift+Alt+D H,Run/Debug,In Windows
+Debug on Server,Shift+Alt+D R,Run/Debug,In Windows
+Debug PHP Web Application,Shift+Alt+D W,Run/Debug,In Windows
+Debug PHPUnit Test,Shift+Alt+D U,Run/Debug,In Windows
+Declaration in Workspace,Ctrl+G,Search,JavaScript View
+Delete,Delete,Edit,In Windows
+Delete Line,Ctrl+D,Text Editing,Editing Text
+Delete Next,Ctrl+D,Text Editing,Editing Text
+Delete Next Word,Ctrl+Delete,Text Editing,Editing Text
+Delete Next Word,Alt+D,Text Editing,Editing Text
+Delete Next Word,Esc D,Text Editing,Editing Text
+Delete Next Word,Alt+Delete,Text Editing,Editing Text
+Delete Previous Word,Alt+Backspace,Text Editing,Editing Text
+Delete Previous Word,Ctrl+Backspace,Text Editing,Editing Text
+Delete Previous Word,Esc Backspace,Text Editing,Editing Text
+Delete to End of Line,Shift+Ctrl+Delete,Text Editing,Editing Text
+Display,Shift+Ctrl+D,Run/Debug,Debugging Script
+Documentation,Shift+Alt+Q J,Views,JavaScript View
+Duplicate Lines,Ctrl+Alt+Up,Text Editing,Editing Text
+EOF,Ctrl+D,Run/Debug,In I/O Console
+Evaluate,Shift+Alt+E,JavaScript Debug,Editing JavaScript Source
+Expand,Ctrl+Numpad_Add,Text Editing,Editing Text
+Expand All,Shift+Ctrl+Numpad_Multiply,Navigate,In Windows
+Expand All,Ctrl+Numpad_Multiply,Text Editing,Editing Text
+Extract Function,Shift+Alt+M,Refactor - JavaScript,JavaScript View
+Extract Local Variable,Shift+Alt+L,Refactor - JavaScript,JavaScript View
+Extract Variable,Shift+Alt+M,Refactor - PHP,DLTK View
+Extract Variable,Shift+Alt+L,Refactor - PHP,DLTK View
+Extract Variable,Shift+Alt+L,Refactor - PHP,Editing PHP source
+Extract Variable,Shift+Alt+M,Refactor - PHP,Editing PHP source
+Find and Replace,Alt+R,Edit,In Windows
+Find and Replace,Ctrl+F,Edit,In Windows
+Find and Replace,Esc R,Edit,In Windows
+Find Next,Ctrl+K,Edit,Editing Text
+Find Previous,Shift+Ctrl+K,Edit,Editing Text
+Find References,Shift+Ctrl+G,Uncategorized,in Generic Code Editor
+Find Text in Workspace,Ctrl+Alt+G,Search,In Windows
+Focus on Active Task,Shift+Alt+H,Focused UI,In Windows
+Format,Shift+Ctrl+F,Edit,Editing in Structured Text Editors
+Format,Shift+Ctrl+F,Edit,Editing PHP source
+Format,Esc Ctrl+F,Script Source,Editing Script Source
+Format,Shift+Ctrl+F,Script Source,Editing Script Source
+Format,Shift+Ctrl+F,Source,Editing JavaScript Source
+Format,Esc Ctrl+F,Source,Editing JavaScript Source
+Format Active Elements,Ctrl+I,Edit,Editing in Structured Text Editors
+Format Active Elements,Ctrl+I,Edit,Editing PHP source
+Forward History,Alt+Right,Navigate,In Windows
+Generate Element Comment,Shift+Alt+J,Edit,Editing PHP source
+Go to Address,Ctrl+G,Run/Debug,In Table Memory Rendering
+Go to Line,Ctrl+X G,Navigate,Editing Text
+Go to Line,Ctrl+L,Navigate,Editing Text
+Go to Matching Bracket,Shift+Ctrl+P,Navigate,Editing JavaScript Source
+Go to Matching Bracket,Shift+Ctrl+P,Navigate,Editing PHP source
+Go to Matching Bracket,Shift+Ctrl+P,Navigate,Editing Script Source
+Go to Next Member,Shift+Ctrl+Down,Navigate,Editing JavaScript Source
+Go to Next Member,Shift+Ctrl+Down,Navigate,Editing Script Source
+Go To Next Unread Task,Alt+Down,Navigate,In Tasks View
+Go to Previous Member,Shift+Ctrl+Up,Navigate,Editing JavaScript Source
+Go to Previous Member,Shift+Ctrl+Up,Navigate,Editing Script Source
+Go To Previous Unread Task,Alt+Up,Navigate,In Tasks View
+Incremental Find,Ctrl+J,Edit,Editing Text
+Incremental Find,Ctrl+S,Edit,Editing Text
+Incremental Find Reverse,Ctrl+R,Edit,Editing Text
+Incremental Find Reverse,Shift+Ctrl+J,Edit,Editing Text
+Indent Line,Ctrl+I,Source,Editing JavaScript Source
+Inline,Shift+Alt+I,Refactor - JavaScript,JavaScript View
+Insert Line Above Current Line,Shift+Ctrl+Enter,Text Editing,Editing Text
+Insert Line Below Current Line,Shift+Enter,Text Editing,Editing Text
+Inspect,Shift+Ctrl+I,Run/Debug,Chromium Debug
+Inspect,Shift+Ctrl+I,Run/Debug,Debugging Script
+Inspect,Shift+Ctrl+I,Run/Debug,Editing PHP source
+Inspect,Shift+Ctrl+N,Run/Debug,Editing PHP source
+JavaScript Breakpoint Properties,Ctrl+Enter,JavaScript Debug,In Breakpoints View
+JavaScript Declaration,Shift+Alt+Q D,Views,JavaScript View
+JavaScript Script Explorer,Shift+Alt+Q P,Views,JavaScript View
+JavaScript Type Hierarchy,Shift+Alt+Q T,Views,JavaScript View
+Join Lines,Ctrl+Alt+J,Text Editing,Editing Text
+Last Edit Location,Ctrl+Q,Navigate,In Windows
+Line Down,Ctrl+N,Text Editing,Editing Text
+Line End,Ctrl+E,Text Editing,Editing Text
+Line End,End,Text Editing,Editing Text
+Line Start,Home,Text Editing,Editing Text
+Line Start,Ctrl+A,Text Editing,Editing Text
+Line Up,Ctrl+P,Text Editing,Editing Text
+Make Landmark,Shift+Ctrl+Alt+Up,Focused UI,In Windows
+Make Less Interesting,Shift+Ctrl+Alt+Down,Focused UI,In Windows
+Mark Occurrences,Shift+Alt+O,Source,Editing PHP source
+Mark Task Complete,Shift+Alt+C,Task Repositories,In Tasks Editor
+Mark Task Complete,Shift+Alt+C,Task Repositories,In Tasks View
+Mark Task Incomplete,Shift+Alt+I,Task Repositories,In Tasks Editor
+Mark Task Incomplete,Shift+Alt+I,Task Repositories,In Tasks View
+Mark Task Read,Shift+Alt+R,Task Repositories,In Tasks Editor
+Mark Task Read,Shift+Alt+R,Task Repositories,In Tasks View
+Mark Task Read and Go To Next Unread Task,Shift+Alt+Down,Task Repositories,In Tasks View
+Mark Task Read and Go To Previous Unread Task,Shift+Alt+Up,Task Repositories,In Tasks View
+Mark Task Unread,Shift+Alt+U,Task Repositories,In Tasks Editor
+Mark Task Unread,Shift+Alt+U,Task Repositories,In Tasks View
+Matching Character,Shift+Ctrl+P,Navigate,Editing in Structured Text Editors
+Matching Tag,Shift+Ctrl+>,Edit,Editing in Structured Text Editors
+Maximize Active View or Editor,Alt+Up,Terminal view commands,Terminal Control in Focus
+Maximize Active View or Editor,Ctrl+M,Window,In Windows
+Maximize Part,Shift+Ctrl+M,Task Editor,In Tasks Editor
+Move - Refactoring,Shift+Alt+V,Refactor - JavaScript,JavaScript View
+Move - Refactoring,Shift+Alt+V,Refactor - PHP,DLTK View
+Move - Refactoring,Shift+Alt+V,Refactor - PHP,Editing PHP source
+Move Lines Down,Alt+Down,Text Editing,Editing Text
+Move Lines Up,Alt+Up,Text Editing,Editing Text
+New,Ctrl+N,File,DLTK View
+New,Ctrl+N,File,Editing PHP source
+New,Ctrl+N,File,In Windows
+New Local Task,Insert,Task Repositories,In Tasks View
+New menu,Shift+Alt+N,File,In Windows
+New Rendering,Ctrl+N,Run/Debug,In Memory View
+New Subtask,Shift+Insert,Task Repositories,In Tasks View
+Next,Ctrl+.,Navigate,In Windows
+Next Column,Ctrl+F,Text Editing,Editing Text
+Next Editor,Ctrl+Tab,Window,In Windows
+Next Editor,Ctrl+F6,Window,In Windows
+Next Memory Monitor,Ctrl+Alt+N,Run/Debug,In Memory View
+Next Page,Alt+F7,Navigate,In Windows
+Next Page of Memory,Shift+Ctrl+.,Run/Debug,In Table Memory Rendering
+Next Perspective,Ctrl+F8,Window,In Windows
+Next Sibling,Shift+Ctrl+Down,Edit,Editing in Structured Text Editors
+Next Sub-Tab,Alt+PageDown,Navigate,In Dialogs and Windows
+Next Tab,Ctrl+PageDown,Navigate,In Dialogs and Windows
+Next View,Ctrl+F7,Window,In Windows
+Next Word,Alt+F,Text Editing,Editing Text
+Next Word,Esc F,Text Editing,Editing Text
+Next Word,Ctrl+Right,Text Editing,Editing Text
+Occurrences in File,Shift+Ctrl+A,Edit,Editing in Structured Text Editors
+Open Call Hierarchy,Ctrl+Alt+H,Navigate,DLTK View
+Open Call Hierarchy,Ctrl+Alt+H,Navigate,Editing PHP source
+Open Call Hierarchy,Ctrl+Alt+H,Navigate,Editing Script Source
+Open Call Hierarchy,Ctrl+Alt+H,Navigate,JavaScript View
+Open Declaration,F3,Navigate,Editing Script Source
+Open Declaration,F3,Navigate,JavaScript View
+Open External JSDoc,Shift+F2,Navigate,JavaScript View
+Open Hyperlink,F3,Text Editing,in Generic Code Editor
+Open Local Terminal on Selection,Shift+Ctrl+Alt+T,Terminal Commands,In Windows
+Open Local Terminal on Selection,Ctrl+Alt+T,Terminal Commands,In Windows
+Open manual,Shift+F2,Source,Editing PHP source
+Open Remote Task,Shift+Ctrl+Alt+F12,Navigate,In Windows
+Open Resource,Ctrl+X Ctrl+F,Navigate,In Windows
+Open Resource,Shift+Ctrl+R,Navigate,In Windows
+Open Search Dialog,Ctrl+H,Search,In Windows
+Open Selected Task,Ctrl+Enter,Task Repositories,In Tasks View
+Open Selection,F3,Edit,Editing in Structured Text Editors
+Open Selection,F3,Navigate,DLTK View
+Open Selection,F3,Navigate,Editing PHP source
+Open Source,Shift+Ctrl+3,JavaScript Debug,Debugging
+Open Structure,Ctrl+F3,Navigate,Editing JavaScript Source
+Open Task,Ctrl+F12,Navigate,In Windows
+Open Type,Shift+Ctrl+T,Navigate,DLTK View
+Open Type,Shift+Ctrl+T,Navigate,Editing JavaScript Source
+Open Type,Shift+Ctrl+T,Navigate,Editing PHP source
+Open Type Hierarchy,F4,Navigate,DLTK View
+Open Type Hierarchy,F4,Navigate,Editing PHP source
+Open Type Hierarchy,F4,Navigate,Editing Script Source
+Open Type Hierarchy,F4,Navigate,JavaScript View
+Open Type in Hierarchy,Shift+Ctrl+H,Navigate,DLTK View
+Open Type in Hierarchy,Shift+Ctrl+H,Navigate,Editing PHP source
+Open Type in Hierarchy,Shift+Ctrl+H,Navigate,JavaScript View
+Opens a method in a PHP editor,Shift+Ctrl+M,Navigate,DLTK View
+Opens a method in a PHP editor,Shift+Ctrl+M,Navigate,Editing PHP source
+Organize Imports,Shift+Ctrl+O,Source,JavaScript View
+Organize Use Statements,Shift+Ctrl+O,Source,Editing PHP source
+Page Down,Ctrl+V,Text Editing,Editing Text
+Page Up,Alt+V,Text Editing,Editing Text
+Page Up,Esc V,Text Editing,Editing Text
+Paste,Ctrl+Y,Edit,In Dialogs and Windows
+Paste,Ctrl+V,Edit,In Dialogs and Windows
+Paste,Shift+Insert,Edit,In Windows
+Paste,Shift+Ctrl+V,Terminal view commands,Terminal Control in Focus
+Paste,Shift+Insert,Terminal view commands,Terminal Control in Focus
+Paste Repository Path or URI,Ctrl+V,Git,In Git Repositories View
+Previous,Ctrl+,Navigate,,In Windows
+Previous Column,Ctrl+B,Text Editing,Editing Text
+Previous Editor,Shift+Ctrl+F6,Window,In Windows
+Previous Editor,Shift+Ctrl+Tab,Window,In Windows
+Previous Page,Shift+Alt+F7,Navigate,In Windows
+Previous Page of Memory,Shift+Ctrl+,Run/Debug,,In Table Memory Rendering
+Previous Perspective,Shift+Ctrl+F8,Window,In Windows
+Previous Sibling,Shift+Ctrl+Up,Edit,Editing in Structured Text Editors
+Previous Sub-Tab,Alt+PageUp,Navigate,In Dialogs and Windows
+Previous Tab,Ctrl+PageUp,Navigate,In Dialogs and Windows
+Previous View,Shift+Ctrl+F7,Window,In Windows
+Previous Word,Ctrl+Left,Text Editing,Editing Text
+Previous Word,Esc B,Text Editing,Editing Text
+Previous Word,Alt+B,Text Editing,Editing Text
+Print,Ctrl+P,File,In Windows
+Print,Esc F9,File,In Windows
+Print,Alt+F9,File,In Windows
+Properties,Alt+Enter,File,In Windows
+Publish,Ctrl+Alt+P,Server,In Servers View
+Quick Access,Alt+Right,Terminal view commands,Terminal Control in Focus
+Quick Access,Ctrl+3,Window,In Windows
+Quick Assist - Assign to local variable,Ctrl+2 L,Source,Editing JavaScript Source
+Quick Assist - Assign to local variable,Ctrl+2 L,Source,Editing PHP source
+Quick Assist - Assign to var,Ctrl+2 F,Source,Editing JavaScript Source
+Quick Assist - Rename in file,Ctrl+2 R,Source,Editing JavaScript Source
+Quick Diff Toggle,Shift+Ctrl+Q,Edit,Editing Text
+Quick Fix,Ctrl+1,Edit,In Dialogs and Windows
+Quick Hierarchy,Ctrl+T,Navigate,Editing JavaScript Source
+Quick Hierarchy,Ctrl+T,Navigate,Editing PHP source
+Quick Hierarchy,Ctrl+T,Navigate,Editing Script Source
+Quick Outline,Ctrl+O,Navigate,Editing in Structured Text Editors
+Quick Outline,Ctrl+O,Navigate,Editing JavaScript Source
+Quick Outline,Ctrl+O,Navigate,Editing PHP source
+Quick Outline,Ctrl+O,Navigate,Editing Script Source
+Quick Outline,Shift+Ctrl+O,Navigate,Task Markup Editor Source Context
+Quick Outline,Ctrl+O,Navigate,WikiText Markup Source Context
+Quick Outline,Ctrl+O,Task Repositories,In Tasks Editor
+Quick Switch Editor,Ctrl+X B,Window,In Windows
+Quick Switch Editor,Ctrl+E,Window,In Windows
+Recenter,Ctrl+L,Text Editing,Editing Text
+Redo,Shift+Ctrl+Z,Edit,In Dialogs and Windows
+Redo,F10,Edit,In Windows
+Redo,Shift+Ctrl++,Edit,In Windows
+Redo,Ctrl+X R,Edit,In Windows
+References in Workspace,Shift+Ctrl+G,Search,Editing PHP source
+References in Workspace,Shift+Ctrl+G,Search,Editing Script Source
+References in Workspace,Shift+Ctrl+G,Search,JavaScript View
+Refresh,F5,File,In Windows
+Remove Block Comment,Shift+Ctrl+\,Edit,Editing in Structured Text Editors
+Remove Block Comment,Shift+Ctrl+\,Source,Editing JavaScript Source
+Remove Occurrence Annotations,Shift+Alt+U,Source,Editing JavaScript Source
+Rename,F2,File,In Windows
+Rename - Refactoring,Shift+Alt+R,Refactor - DLTK,DLTK View
+Rename - Refactoring,Shift+Alt+R,Refactor - DLTK,Editing PHP source
+Rename - Refactoring,Shift+Alt+R,Refactor - DLTK,Editing Script Source
+Rename - Refactoring,Shift+Alt+R,Refactor - JavaScript,JavaScript View
+Reset Structure,Shift+Ctrl+Numpad_Multiply,Text Editing,Editing Text
+Restore Last Selection,Shift+Alt+Down,Edit,Editing in Structured Text Editors
+Restore Last Selection,Shift+Alt+Down,Edit,Editing JavaScript Source
+Restore Last Selection,Shift+Alt+Down,Edit,Editing PHP source
+Resume,F8,Run/Debug,Debugging
+Run,Ctrl+F11,Run/Debug,In Windows
+Run,Ctrl+Alt+R,Server,In Servers View
+Run CLI Application,Shift+Alt+X H,Run/Debug,In Windows
+Run on Server,Shift+Alt+X R,Run/Debug,In Windows
+Run PHP Web Application,Shift+Alt+X W,Run/Debug,In Windows
+Run PHPUnit Test,Shift+Alt+X U,Run/Debug,In Windows
+Run to Line,Ctrl+R,Run/Debug,Debugging
+Save,Ctrl+X Ctrl+S,File,In Windows
+Save,Ctrl+S,File,In Windows
+Save All,Shift+Ctrl+S,File,In Windows
+Save All,Ctrl+X S,File,In Windows
+Scroll Line Down,Ctrl+Z,Text Editing,Editing Text
+Scroll Line Down,Ctrl+Down,Text Editing,Editing Text
+Scroll Line Up,Alt+Z,Text Editing,Editing Text
+Scroll Line Up,Esc Z,Text Editing,Editing Text
+Scroll Line Up,Ctrl+Up,Text Editing,Editing Text
+Search Repository for Task,Shift+Ctrl+F12,Navigate,In Windows
+Select All,Ctrl+X H,Edit,In Dialogs and Windows
+Select All,Ctrl+A,Edit,In Dialogs and Windows
+Select Enclosing Element,Shift+Alt+Up,Edit,Editing in Structured Text Editors
+Select Enclosing Element,Shift+Alt+Up,Edit,Editing JavaScript Source
+Select Enclosing Element,Shift+Alt+Up,Edit,Editing PHP source
+Select Line End,Shift+End,Text Editing,Editing Text
+Select Line Start,Shift+Home,Text Editing,Editing Text
+Select Next Element,Shift+Alt+Right,Edit,Editing in Structured Text Editors
+Select Next Element,Shift+Alt+Right,Edit,Editing JavaScript Source
+Select Next Element,Shift+Alt+Right,Edit,Editing PHP source
+Select Next Word,Shift+Ctrl+Right,Text Editing,Editing Text
+Select Previous Element,Shift+Alt+Left,Edit,Editing in Structured Text Editors
+Select Previous Element,Shift+Alt+Left,Edit,Editing JavaScript Source
+Select Previous Element,Shift+Alt+Left,Edit,Editing PHP source
+Select Previous Word,Shift+Ctrl+Left,Text Editing,Editing Text
+Set Mark,Ctrl+Space,Text Editing,Editing Text
+Set Mark,Ctrl+2,Text Editing,Editing Text
+Show Context Quick View,Shift+Ctrl+Alt+Right,Focused UI,In Windows
+Show Contributing Plug-in,Shift+Alt+F3,Window,In Dialogs and Windows
+Show In...,Shift+Alt+W,Navigate,In Windows
+Show Key Assist,Shift+Ctrl+L,Window,In Dialogs and Windows
+Show Markup Cheat Sheet,F1,Uncategorized,WikiText Markup Source Context
+Show Occurrences in File Quick Menu,Shift+Ctrl+U,Search,JavaScript View
+Show Refactor Quick Menu,Shift+Alt+T,Refactor - DLTK,DLTK View
+Show Refactor Quick Menu,Shift+Alt+T,Refactor - DLTK,Editing Script Source
+Show Refactor Quick Menu,Shift+Alt+T,Refactor - JavaScript,JavaScript View
+Show Refactor Quick Menu,Ctrl+Alt+T,Source,DLTK View
+Show Refactor Quick Menu,Ctrl+Alt+T,Source,Editing PHP source
+Show Ruler Context Menu,Ctrl+F10,Window,Editing Text
+Show Source Quick Menu,Ctrl+Alt+S,Source,DLTK View
+Show Source Quick Menu,Ctrl+Alt+S,Source,Editing PHP source
+Show Source Quick Menu,Shift+Alt+S,Source,JavaScript View
+Show System Menu,Alt+-,Window,In Windows
+Show Tooltip Description,F2,Edit,Editing PHP source
+Show Tooltip Description,F4,Task Repositories,In Tasks View
+Show Tooltip Description,F2,Text Editing,Editing Text
+Show View,Shift+Alt+Q Q,Views,In Windows
+Show View (Breakpoints),Shift+Alt+Q B,Views,In Windows
+Show View (Cheat Sheets),Shift+Alt+Q H,Views,In Windows
+Show View (Console),Shift+Alt+Q C,Views,In Windows
+Show View (Error Log),Shift+Alt+Q L,Views,In Windows
+Show View (History),Shift+Alt+Q Z,Views,In Windows
+Show View (Outline),Shift+Alt+Q O,Views,In Windows
+Show View (Problems),Shift+Alt+Q X,Views,In Windows
+Show View (Search),Shift+Alt+Q S,Views,In Windows
+Show View (Synchronize),Shift+Alt+Q Y,Views,In Windows
+Show View (Task List),Shift+Alt+Q K,Views,In Windows
+Show View (Variables),Shift+Alt+Q V,Views,In Windows
+Show View Menu,Ctrl+F10,Window,In Dialogs and Windows
+Skip All Breakpoints,Ctrl+Alt+B,Run/Debug,In Windows
+Step Into,F5,Run/Debug,Debugging
+Step Over,F6,Run/Debug,Debugging
+Step Return,F7,Run/Debug,Debugging
+Stop,Ctrl+Alt+S,Server,In Servers View
+Submit Task,Shift+Alt+S,Task Editor,In Tasks Editor
+Surround With Quick Menu,Shift+Alt+Z,Source,JavaScript View
+Swap Mark,Ctrl+X Ctrl+X,Text Editing,Editing Text
+Switch to Editor,Shift+Ctrl+E,Window,In Windows
+Switch to Editor,Ctrl+X Ctrl+B,Window,In Windows
+Terminal view insert,Alt+G,Terminal view commands,Terminal Typing Connected
+Terminal view insert,Alt+N,Terminal view commands,Terminal Typing Connected
+Terminal view insert,Alt+E,Terminal view commands,Terminal Typing Connected
+Terminal view insert,Alt+W,Terminal view commands,Terminal Typing Connected
+Terminal view insert,Alt+L,Terminal view commands,Terminal Typing Connected
+Terminal view insert,Alt+Y,Terminal view commands,Terminal Typing Connected
+Terminal view insert,Alt+V,Terminal view commands,Terminal Typing Connected
+Terminal view insert,Alt+H,Terminal view commands,Terminal Typing Connected
+Terminal view insert,Alt+B,Terminal view commands,Terminal Typing Connected
+Terminal view insert,Alt+F,Terminal view commands,Terminal Typing Connected
+Terminal view insert,Alt+D,Terminal view commands,Terminal Typing Connected
+Terminal view insert,Alt+S,Terminal view commands,Terminal Typing Connected
+Terminal view insert,Alt+C,Terminal view commands,Terminal Typing Connected
+Terminal view insert,Alt+A,Terminal view commands,Terminal Typing Connected
+Terminal view insert,Alt+T,Terminal view commands,Terminal Typing Connected
+Terminal view insert,Alt+P,Terminal view commands,Terminal Typing Connected
+Terminal view insert,Alt+R,Terminal view commands,Terminal Typing Connected
+Terminate,Ctrl+F2,Run/Debug,Debugging
+Text End,Shift+Alt+>,Text Editing,Editing Text
+Text End,Ctrl+X ],Text Editing,Editing Text
+Text End,Alt+>,Text Editing,Editing Text
+Text End,Esc >,Text Editing,Editing Text
+Text End,Ctrl+End,Text Editing,Editing Text
+Text End,Esc Shift+>,Text Editing,Editing Text
+Text Start,Shift+Alt+<,Text Editing,Editing Text
+Text Start,Esc <,Text Editing,Editing Text
+Text Start,Ctrl+Home,Text Editing,Editing Text
+Text Start,Alt+<,Text Editing,Editing Text
+Text Start,Esc Shift+<,Text Editing,Editing Text
+Text Start,Ctrl+X [,Text Editing,Editing Text
+To Lower Case,Shift+Ctrl+Y,Text Editing,Editing Text
+To Upper Case,Shift+Ctrl+X,Text Editing,Editing Text
+Toggle Block Selection,Shift+Alt+A,Edit,Editing Text
+Toggle Breakpoint,Shift+Ctrl+B,Run/Debug,In Windows
+Toggle Comment,Shift+Ctrl+C,Edit,Editing in Structured Text Editors
+Toggle Comment,Ctrl+/,Edit,Editing PHP source
+Toggle Comment,Shift+Ctrl+C,Edit,Editing PHP source
+Toggle Comment,Ctrl+7,Edit,Editing PHP source
+Toggle Comment,Shift+Ctrl+C,Script Source,Editing Script Source
+Toggle Comment,Ctrl+7,Script Source,Editing Script Source
+Toggle Comment,Ctrl+/,Script Source,Editing Script Source
+Toggle Comment,Shift+Ctrl+C,Source,Editing JavaScript Source
+Toggle Comment,Ctrl+7,Source,Editing JavaScript Source
+Toggle Comment,Ctrl+/,Source,Editing JavaScript Source
+Toggle Comment,Esc Ctrl+C,Source,Editing JavaScript Source
+Toggle Folding,Ctrl+Numpad_Divide,Text Editing,Editing Text
+Toggle Full Screen,Alt+F11,Window,In Dialogs and Windows
+Toggle Insert Mode,Shift+Ctrl+Insert,Edit,Editing Text
+Toggle Mark Occurrences,Shift+Alt+O,Source,Editing JavaScript Source
+Toggle Memory Monitors Pane,Ctrl+T,Run/Debug,In Memory View
+Toggle Overwrite,Insert,Text Editing,Editing Text
+Toggle Split Editor (Horizontal),Ctrl+_,Window,In Windows
+Toggle Split Editor (Vertical),Ctrl+{,Window,In Windows
+Toggle Word Wrap,Shift+Alt+Y,Edit,Editing Text
+Undo,Ctrl+Z,Edit,In Dialogs and Windows
+Undo,Shift+Ctrl+-,Edit,In Windows
+Undo,Ctrl+X U,Edit,In Windows
+Undo,F9,Edit,In Windows
+Use Step Filters,Shift+F5,Run/Debug,In Windows
+Word Completion,Alt+/,Edit,Editing Text
+Zoom In,Ctrl++,Text Editing,Editing Text
+Zoom In,Ctrl+=,Text Editing,Editing Text
+Zoom In,Ctrl+=,View,In Windows
+Zoom Out,Ctrl+-,Text Editing,Editing Text
+Zoom Out,Ctrl+-,View,In Windows
