@@ -1,0 +1,29 @@
+#
+# This is ~/.ssh/config file
+#
+# see https://help.github.com/articles/using-ssh-over-the-https-port/
+# and
+# https://code.tutsplus.com/tutorials/quick-tip-how-to-work-with-github-and-multiple-accounts--net-22574
+# and
+# 'Always use the "git" user' at https://help.github.com/articles/error-permission-denied-publickey/
+
+Host github.com
+  HostName ssh.github.com
+  User git
+  IdentityFile ~/.ssh/id_rsa.pub
+
+#  HostName github.com
+#  User martinforsyth
+#  Port 443
+
+
+##Default GitHub
+#Host github.com
+#  HostName github.com
+#  User git
+#  IdentityFile ~/.ssh/id_rsa
+#
+#Host github-COMPANY
+#  HostName github.com
+#  User git
+#  IdentityFile ~/.ssh/id_rsa_COMPANY
